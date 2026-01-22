@@ -1,0 +1,9 @@
+body{
+margin:0;height:100vh;display:flex;align-items:center;justify-content:center;
+background:#0b0f1a;font-family:Inter,sans-serif;}
+.card{background:#fff;width:420px;padding:32px;border-radius:18px}
+.progress{height:6px;background:#eee;border-radius:10px;margin-bottom:20px}
+#bar{height:100%;width:0;background:#4f46e5}
+input{width:100%;padding:14px;margin-bottom:20px}
+.buttons{display:flex;gap:10px}
+button{flex:1;padding:12px}
